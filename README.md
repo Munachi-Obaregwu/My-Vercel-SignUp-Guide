@@ -6,7 +6,7 @@
 www.vercel.com
 ```
 #### Step 2: Click on Sign Up
-#### Step 3: When you are taken to their sign up page click on Hobby or Pro
+#### Step 3: When you are taken to their sign up page select Hobby or Pro
 
 ## And this is my guide on how to delete your vercel account
 #### Step 1: You go to settings
