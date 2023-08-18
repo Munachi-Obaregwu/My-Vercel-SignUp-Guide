@@ -1,4 +1,4 @@
-# My-Vercel-SignUp-Guide
+# My Vercel Sign Up Guide
 ## This is my guide on how to sign up for vercel
 
 #### Step 1: Go to Vercel's page (www.vercel.com)
