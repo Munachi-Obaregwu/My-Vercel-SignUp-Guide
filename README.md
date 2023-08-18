@@ -8,6 +8,7 @@ www.vercel.com
 #### Step 2: Click on Sign Up.
 #### Step 3: When you are taken to their sign up page select Hobby or Pro depending on what you are using it for.
 #### Step 4: After selecting, Hobby or Pro, a space that asks for your name will come out, type in your name and click Continue.
+#### Step 5: When it takes you to the next Sign Up page, click on Continue with GitHub
 
 ## And this is my guide on how to delete your vercel account
 #### Step 1: You go to settings.
